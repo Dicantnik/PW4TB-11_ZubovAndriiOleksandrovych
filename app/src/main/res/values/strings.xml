@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calc4</string>
+    <!-- Варіанти для першого Spinner -->
+    <string-array name="spinner_options_1">
+        <item>Неізольовані проводи та шини</item>
+        <item>Кабелі з паперовою і проводи з гумовою та полівініхлоридною ізоляцією з жилами</item>
+        <item>Кабелі з гумвоою та пластвмасовою ізоляцією з жилами</item>
+    </string-array>
+
+    <!-- Варіанти для другого Spinner -->
+    <string-array name="spinner_options_2">
+        <item>Мідні</item>
+        <item>Алюмінієві</item>
+    </string-array>
+</resources>
